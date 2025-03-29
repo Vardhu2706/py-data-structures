@@ -49,7 +49,7 @@ Example (from `array_ds.py`):
 
 This repo is a **read-only knowledge base**.
 
-If you're looking for the script used to generate these files using GPT-4, visit the [py-dsa-notes-generator](https://github.com/Vardhu2706/py-dsa-notes-generator) project (coming soon).
+If you're looking for the script used to generate these files using GPT-4, visit the [py-dsa-notes-generator](https://github.com/Vardhu2706/py-dsa-notes-generator) project.
 
 ---
 
